@@ -18,7 +18,7 @@
 ### Zakaj se mi magično prikaže napačen urnik?
   - preveri ali se tvoj urnik nahaja na naslovu https://www.wise-tt.com/wtt_um_feri/, če se ne, prekopiraj svoj url wise_timetable urnika v kodo, kjer se nahaja  *driver = start_chrome()* in znotraj oklepajav vnesi svoj url kot "moj_url" ali 'moj_url'
   - urnik se nahaj na prej omenjenem naslovu, ampak ne prikazuje pravega programa ali letnika, poišči del kode  *navigate_to_right_program_year(driver)*  in vanj dopiši svoj program in letnik v obliki  *navigate_to_right_program_year(driver, "moj_program", "letnik")* ali  *navigate_to_right_program_year(driver, 'moj_program', 'letnik')*
-  - npr. si študent/ka drugega letnika visoko šolskega programa informatike, zato zapišeš  *navigate_to_right_program_year(driver, "INFORMATIKA IN TEHNOLOGIJE KOMUNICIRANJA (BV30)", 2)*  ali *navigate_to_right_program_year(driver, "INFORMATIKA IN TEHNOLOGIJE KOMUNICIRANJA (BV30)", "2")*
+  - npr. si študent/ka drugega letnika visokošolskega programa informatike, zato zapišeš  *navigate_to_right_program_year(driver, "INFORMATIKA IN TEHNOLOGIJE KOMUNICIRANJA (BV30)", 2)*  ali *navigate_to_right_program_year(driver, "INFORMATIKA IN TEHNOLOGIJE KOMUNICIRANJA (BV30)", "2")*
   - ime tvojega programa more biti **NUJNO** enak tistemu, ki je zapisan med opcijami pri izbiri urnikov
   - zgoraj omenjene stvari lahko spreminjaš v navadni *Beležnici (Notebook)*, desno klikni na kodo programa in izberi  *Za odpiranje uporabi > Beležnica* in tam spreminjaj zadeve (na koncu ne pozabi shraniti datoteke 😉)
 
