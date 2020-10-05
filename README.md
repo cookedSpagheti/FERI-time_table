@@ -1,5 +1,5 @@
 # FERI-time_table
- Za vse, ki jih gre klikanje po timetable počasi na živce™
+ Za vse, ki jih gre klikanje po *Wise TimeTable* počasi na živce™
 
 
 ### Za kaj gre?
