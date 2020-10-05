@@ -24,5 +24,5 @@
   - zgoraj omenjene stvari lahko spreminjaš v navadni *Beležnici (Notebook)*, samo desno klikni na kodo programa in izberi  *Za odpiranje uporabi > Beležnica* in tam spreminjaj zadeve (na koncu ne pozabi shraniti datoteke 😉)
 
 ### Kako lahko pretvorim kodo programa v .exe datoteko?
-  - za pretvorbo boš potreboval/a programski jezik Python, preneseš si ga tu https://www.python.org/downloads/
+  - za pretvorbo boš potreboval/a programski jezik Python, preneseš si ga tu https://www.python.org/downloads/ ([pomoč](https://www.youtube.com/watch?v=i-MuSAwgwCU))
   - slediš lahko navodilu [prve spletne strani](https://www.geeksforgeeks.org/convert-python-script-to-exe-file/) ali [druge spletne strani](https://nitratine.net/blog/post/convert-py-to-exe/) (priporočam ti, da poskusiš s prvo spletno stranjo, saj Python občasno posodabljajo in se lahko zgodi, da druga rešitev ne bo delovala)
