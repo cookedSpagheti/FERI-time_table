@@ -1,5 +1,5 @@
 # FERI-time_table
-Za vse, ki jih gre klikanje po timetable počasi na živce. ¯\_(ツ)_/¯ 
+Za vse, ki jih gre klikanje po timetable počasi na živce. ¯\\_(ツ)_/¯ 
 
 
 Za kaj gre?
