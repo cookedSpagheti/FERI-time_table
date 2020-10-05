@@ -21,7 +21,7 @@
   - če se urnik nahaj na prej omenjenem naslovu, ampak ne prikazuje pravega programa ali letnika, poišči del kode  *navigate_to_right_program_year(driver)*  in vanj dopiši svoj program in letnik v obliki  *navigate_to_right_program_year(driver, "moj_program", "letnik")* ali  *navigate_to_right_program_year(driver, 'moj_program', 'letnik')*
   - npr. si študent/ka drugega letnika visoko šolskega programa informatike, zato zapišeš  *navigate_to_right_program_year(driver, "INFORMATIKA IN TEHNOLOGIJE KOMUNICIRANJA (BV30)", 2)*  ali *navigate_to_right_program_year(driver, "INFORMATIKA IN TEHNOLOGIJE KOMUNICIRANJA (BV30)", "2")*
   - ime tvojega programa more biti **NUJNO** enak tistemu, ki je zapisan med opcijami pri izbiri urnikov
-  - zgoraj omenjene stvari lahko spreminjaš v navadni *Beležnici (Notebook)*, samo desno klikni na kodo programa in izberi  *Za odpiranje uporabi > Beležnica* in tam spreminjaj zadeve (na koncu ne pozabi shraniti datoteke 😉)
+  - zgoraj omenjene stvari lahko spreminjaš v navadni *Beležnici (Notebook)*, desno klikni na kodo programa in izberi  *Za odpiranje uporabi > Beležnica* in tam spreminjaj zadeve (na koncu ne pozabi shraniti datoteke 😉)
 
 ### Kako lahko pretvorim kodo programa v .exe datoteko?
   - za pretvorbo boš potreboval/a programski jezik Python, preneseš si ga tu https://www.python.org/downloads/ ([pomoč](https://www.youtube.com/watch?v=i-MuSAwgwCU))
