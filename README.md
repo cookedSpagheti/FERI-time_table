@@ -6,7 +6,7 @@
   - avtomatizacijski program, napisan v Pythonu, ki s pomočjo Seleniuma dostopa do vsebin na spletni strani Wise Time Table. 
 
 
-### Kako stvar deluje?
+### Kako deluje?
   - najprej preneses ustrezno različico webdriver-ja za tvoj chrome iz https://chromedriver.chromium.org/downloads (različico lahko preveriš z odpiranje Chrome-a, potem izbereš tri pike na desnem delu okna in klikneš *Pomoč > O Google Chromu*)
   - webdriver premakneš v mapo, kamor boš shranil/a kodo programa (.py končnica) oz. sam program (če kodo programa pretvoriš v .exe datoteko)
   - program zdaj samo zaženeš in se ti magično prikaže tvoj urnik
