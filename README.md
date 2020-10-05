@@ -26,3 +26,6 @@
 ### Kako lahko pretvorim kodo programa v .exe datoteko?
   - za pretvorbo boš potreboval/a programski jezik Python, preneseš si ga tu https://www.python.org/downloads/
   - slediš lahko navodilu [prve spletne strani] (https://www.geeksforgeeks.org/convert-python-script-to-exe-file/) ali [druge spletne strani] (https://nitratine.net/blog/post/convert-py-to-exe/) (priporočam ti, da poskusiš s prvo spletno stranjo, saj Python občasno posodabljajo in se lahko zgodi, da druga rešitev ne bo delovala)
+
+https://hello-sunil.in - It's me :)
+[Hello Sunil](https://hello-sunil.in)
